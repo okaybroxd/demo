@@ -4,7 +4,7 @@ start_time = time.time()
 
 import psutil
 import time
-from _ import start_time, Client # replace _ where you declare the start_time, Client
+from AnonXMusic import start_time, Client # replace _ where you declare the start_time, Client
 from pyrogram import filters 
 from pyrogram.types import Message
 
